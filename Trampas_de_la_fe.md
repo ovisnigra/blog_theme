@@ -8,7 +8,7 @@ Solo vine a cambiar unos guantes. Ayer me aventuré a la mega-comer, mientras lu
 
 Órale, suena bien. No se ven taaan chafas. Escogí talla, color, me los llevé.
 
-Ya en casa, resultaron un poco guangos y la talla M me baila un poco, lo mejor sería cambiarlos por unos chicos. Así acabé aquí, en Atención_a_clientes armado de paciencia pa lograr la epopeya. Va bien, no hay gente formada, soy el primero. De todos modos me toca esperar porque la chica que atiende está lidiando con un desmadre debajo del mostrador. A un compañerito que buscaba medio desperado un cargador pa su cel, se le derramó un bote de algo, no alcanzo a ver, ha de ser champú, se ve que no se limpia fácil y ocupan harto algodón y trapos pa limpiar. Lo parta un rayo. Respiro hondo.
+Ya en casa, resultaron un poco guangos y la talla M me baila un poco, lo mejor sería cambiarlos por unos chicos. Así acabé aquí, en _Atención a clientes_ armado de paciencia pa lograr la epopeya. Va bien, no hay gente formada, soy el primero. De todos modos me toca esperar porque la chica que atiende está lidiando con un desmadre debajo del mostrador. A un compañerito que buscaba medio desperado un cargador pa su cel, se le derramó un bote de algo, no alcanzo a ver, ha de ser champú, se ve que no se limpia fácil y ocupan harto algodón y trapos pa limpiar. Lo parta un rayo. Respiro hondo.
 
 Detrás de mí, se comienza a acumular gente que espera ser atendida. Aprovecho pa revisar el tiquet de ,i cambio. ¡Ah chirrión! Los guantes me los cobraron a $189 ¿Noquestaban de oferta? Reviso otra vez. Sí, no me "bonificaron" na. Bueno, orita pregunto.
 
@@ -64,4 +64,4 @@ Se marcha. La chica del mostrador de todos modos me devuelve los 189 que pagué 
 
 El supervisor se acerca y al parecer no le agrada mucho que la chica esté de acuerdo conmigo, para el es muy normal que la Comer no sea realmente quien emite el monedero naranjoso ese.
 
-Ahi lo dejamos. Me agrada no haberme enfurecido (como otras veces) y haber tenido al menos a alguien de mi lado. Paso a ver los guantes y resulta que la oferta solo era del guante en color rojo (yo llevaba uno azul) en talla grande. Chale. Del puro coraje me dan ganas de arrancar la oferta. Pero no lo hago, me limito a ya no comprar nada e irme. Después se me ocurrió que podía regresar
+Ahi queda. Me agrada no haberme enfurecido (como otras veces) y haber tenido al menos a alguien de mi lado. Paso a ver los guantes y resulta que la oferta solo era del guante en color rojo (yo llevaba uno azul) en talla grande. Chale. Del puro coraje me dan ganas de arrancar la oferta. Pero no lo hago, me limito a ya no comprar nada e irme. Después se me ocurrió que podía regresar a poner un letrero o algo. Ya no le veo caso a nada.

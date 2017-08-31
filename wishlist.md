@@ -1,39 +1,17 @@
 # Whishlist
-
+ 
 
 ## Links/Lecturas
 | links | links | links |
 | --- | --- | --- |
 | [AI for president - WIRED](https://www.wired.com/2017/05/hear-lets-elect-ai-president/) | [GAB (Alt-Rights Twitter)](https://www.wired.com/2016/09/gab-alt-rights-twitter-ultimate-filter-bubble/) | [El porno feroz](https://elestadomental.com/diario/el-porno-feroz) |
-| [Saul Bass every frame a painting](https://www.wired.com/2016/10/design-legend-saul-bass-changed-film-tv-forever/)
-
-[Look Inside](https://www.amazon.com/Look-Inside-Cutaway-Illustrations-Storytelling/dp/3899556399/ref=sr_1_1?ie=UTF8&qid=1476903394&sr=8-1&keywords=look+inside)
-
-[Arquine - Contra la Densidad](http://www.arquine.com/contra-densidad/)
-
-[tabletopwhale.com](http://tabletopwhale.com/index.html)
-
-[Vinyl MP3](http://forfy.blogspot.mx/2004/10/miles-de-vinilos-para-descargar-oo-mp3.html)
-
-[Eerie Short Filme - Closer. A subtle Story in a Vast Landscape - Pyke](https://www.wired.com/2016/10/eerie-short-film-celebrates-beauty-simplicity/)
-
-[Kodi](https://kodi.tv/)
-
-[Seo-Michael, Exodus](https://seo-michael.co.uk/how-to-install-exodus-for-kodi/)
-
-[Tech is the new religion WIRED](https://www.wired.com/2017/02/yuval-harari-tech-is-the-new-religion/)
-
-[Wired, Battery of the Future](https://www.wired.com/2017/02/researchers-racing-build-battery-future/)
-
-[PI on Raspberry Pi](https://www.wired.com/2017/03/lets-calculate-pi-raspberry-pi-celebrate-pi-day/)
-
-[San Francisco Symphony SoundBox](https://www.wired.com/2017/03/san-francisco-soundbox/)
-
-[Women - Electronic Music](http://www.openculture.com/2015/06/hear-seven-hours-of-women-making-electronic-music-1938-2014.html)
-
-[Playin instrument's good for your brain](http://www.openculture.com/2014/08/playing-an-instrument-is-a-great-workout-for-your-brain.html)
-
-[Alguien está animando sus pinturas favoritas](https://creators.vice.com/es_mx/article/alguien-esta-animando-sus-pinturas-favoritas-de-internet?utm_source=tcptwmx)
+| [Saul Bass every frame a painting](https://www.wired.com/2016/10/design-legend-saul-bass-changed-film-tv-forever/) | [Look Inside](https://www.amazon.com/Look-Inside-Cutaway-Illustrations-Storytelling/dp/3899556399/ref=sr_1_1?ie=UTF8&qid=1476903394&sr=8-1&keywords=look+inside) | [Arquine - Contra la Densidad](http://www.arquine.com/contra-densidad/) |
+| [tabletopwhale.com](http://tabletopwhale.com/index.html) | [Vinyl MP3](http://forfy.blogspot.mx/2004/10/miles-de-vinilos-para-descargar-oo-mp3.html) | [Eerie Short Filme - Closer. A subtle Story in a Vast Landscape - Pyke](https://www.wired.com/2016/10/eerie-short-film-celebrates-beauty-simplicity/) |
+| [Kodi](https://kodi.tv/) | [Seo-Michael, Exodus](https://seo-michael.co.uk/how-to-install-exodus-for-kodi/) | [Tech is the new religion WIRED](https://www.wired.com/2017/02/yuval-harari-tech-is-the-new-religion/) |
+| [Wired, Battery of the Future](https://www.wired.com/2017/02/researchers-racing-build-battery-future/) | [PI on Raspberry Pi](https://www.wired.com/2017/03/lets-calculate-pi-raspberry-pi-celebrate-pi-day/) |
+| [San Francisco Symphony SoundBox](https://www.wired.com/2017/03/san-francisco-soundbox/) | [Women - Electronic Music](http://www.openculture.com/2015/06/hear-seven-hours-of-women-making-electronic-music-1938-2014.html) | [Playin instrument's good for your brain](http://www.openculture.com/2014/08/playing-an-instrument-is-a-great-workout-for-your-brain.html) |
+| [Alguien está animando sus pinturas favoritas](https://creators.vice.com/es_mx/article/alguien-esta-animando-sus-pinturas-favoritas-de-internet?utm_source=tcptwmx) | +++ | +++ |
+| +++ | +++ | +++ |
 
 
 ## Libros
@@ -41,7 +19,7 @@
 Autor | Título (aproximado) | Editorial |
 ---|---|---|
 Tzvetan Todorov | _La conquista de América (la otredad)_ | Siglo XXI
-Martín Caparrós | _El hambre_ | Anagrama 
+Martín Caparrós | _El hambre_ | Anagrama
 Ander Izaguirre | _Plomo en los bolsillos_ |
 Taro Gomi | _Libro de los garabatos_ | FCE
 Michael Pollan | _El dilema del omnívoro_ |
@@ -126,7 +104,7 @@ The Contortions
 * _Bip Bip ,_ Roberto Carlos
 * _Marcha de Zacatecas,_ (?)
 * _,_ quién
-* _,_ quién 
+* _,_ quién
 
 ## Prints
 
