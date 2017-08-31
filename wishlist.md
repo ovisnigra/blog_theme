@@ -2,7 +2,7 @@
 
 
 ## Links/Lecturas
-
+| links | links | links |
 | --- | --- | --- |
 | [AI for president - WIRED](https://www.wired.com/2017/05/hear-lets-elect-ai-president/) | [GAB (Alt-Rights Twitter)](https://www.wired.com/2016/09/gab-alt-rights-twitter-ultimate-filter-bubble/) | [El porno feroz](https://elestadomental.com/diario/el-porno-feroz) |
 | [Saul Bass every frame a painting](https://www.wired.com/2016/10/design-legend-saul-bass-changed-film-tv-forever/)
