@@ -3,13 +3,9 @@
 
 ## Links/Lecturas
 
-[AI for president - WIRED](https://www.wired.com/2017/05/hear-lets-elect-ai-president/)
-
-[GAB (Alt-Rights Twitter)](https://www.wired.com/2016/09/gab-alt-rights-twitter-ultimate-filter-bubble/)
-
-[El porno feroz](https://elestadomental.com/diario/el-porno-feroz)
-
-[Saul Bass every frame a painting](https://www.wired.com/2016/10/design-legend-saul-bass-changed-film-tv-forever/)
+| --- | --- | --- |
+| [AI for president - WIRED](https://www.wired.com/2017/05/hear-lets-elect-ai-president/) | [GAB (Alt-Rights Twitter)](https://www.wired.com/2016/09/gab-alt-rights-twitter-ultimate-filter-bubble/) | [El porno feroz](https://elestadomental.com/diario/el-porno-feroz) |
+| [Saul Bass every frame a painting](https://www.wired.com/2016/10/design-legend-saul-bass-changed-film-tv-forever/)
 
 [Look Inside](https://www.amazon.com/Look-Inside-Cutaway-Illustrations-Storytelling/dp/3899556399/ref=sr_1_1?ie=UTF8&qid=1476903394&sr=8-1&keywords=look+inside)
 
