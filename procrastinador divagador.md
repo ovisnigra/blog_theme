@@ -14,7 +14,9 @@
 
 ## Sostenibilidad (LB)
 
-> "Necesitamos caernos para volvernos a levantar. \[…] El problema es que en el momento actual nos sobran datos y nos falta reflexión." [Entrevista a EUDALD CARBONELL. La Vanguardia](http://www.lavanguardia.com/ciencia/quien/20170731/43161256292/eudald-carbonell-colapso-especie-humana-ya-empezado.html?platform=hootsuite&utm_campaign=botones_sociales&utm_source=facebook&utm_medium=social)
+> "Necesitamos caernos para volvernos a levantar. \[…] El problema es que en el momento actual nos sobran datos y nos falta reflexión." 
+
+([Entrevista a EUDALD CARBONELL. La Vanguardia](http://www.lavanguardia.com/ciencia/quien/20170731/43161256292/eudald-carbonell-colapso-especie-humana-ya-empezado.html?platform=hootsuite&utm_campaign=botones_sociales&utm_source=facebook&utm_medium=social))
 
 * ¿Hay una catástrofe en el futuro?
 * …
