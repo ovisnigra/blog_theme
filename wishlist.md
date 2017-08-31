@@ -40,23 +40,8 @@ Liniers |   |
 ## Pelis
 
 _El Ángel exterminador,_ Buñuel
+_Sunset Boulevard,_ Billy Wilder
 
-
-### Ciclo Peter Sellers
-
-Título | Director | Año
----|---|---
-_Dr. Strangelove_ | Kubrik |
-_Being There_ | Hal Ashby |
-_The Party_ | Blake Edwards |
-
-### Ciclo El Oscuro objeto
-
-Título | Director | Año |
----|---|---|
-_Ese oscuro objeto del deseo_ | Buñuel |
-_Lolita_ | Kubrik |
-_?_ | ? |
 
 
 ## Música
