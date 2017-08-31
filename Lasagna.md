@@ -1,6 +1,6 @@
 # Lasagna
 
-_Cantidades para 4 porciones_
+_Cantidades para 10 porciones (2 charolas medianas)_
 
 ## 1. La compra
 
