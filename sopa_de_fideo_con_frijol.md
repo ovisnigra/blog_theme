@@ -26,4 +26,4 @@ Vino blanco (opcional)
 
 * * *
 
-Divaga: Extraño los programas de cocina tipo Chepina Peralta, todo un clásico. Programas de cocina, no de supermasterchef sueperestrella. Parece que todos los chows de hoy están enfocados en eso en la aspiración de millenial superestrella.
+> Cuánta nostalgia por los programas de cocina como el de Chepina Peralta, todo un clásico. Eran pa formar cocineros, no pa lucir a supermasterchefs sueperestrellas. Parece que todos los chows de hoy están enfocados en explotar ese síndrome aspiracional de _millenials_ superestrellas.
