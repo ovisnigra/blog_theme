@@ -6,6 +6,7 @@
 * Ocio
 * Arte
 * Oficios y la transformación de la materia
+* Vicios. Alcohol. Virtud. Trabajar sobrio.
 * ...
 
 ## Tecnología
