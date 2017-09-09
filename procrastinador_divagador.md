@@ -1,3 +1,6 @@
+
+# Procastinar y divagar, la vida misma
+
 ## Papá
 
  _Recordatorio: Buscar entrevista tía Mello_
@@ -7,6 +10,7 @@
 * Arte
 * Oficios y la transformación de la materia
 * Vicios. Alcohol. Virtud. Trabajar sobrio.
+* Disciplina, orden
 * ...
 
 ## Tecnología
@@ -21,10 +25,21 @@
 * ¿Hay una catástrofe en el futuro?
 * …
 
+## No-escuela
+  * Arte - Ocio - Juego
+  * Hay ideas cruzadas con lo de crianza (tal vez habría que empezar por ahí)
+
 ## Miscelánea
 
 1. Cineclub
 2. Reciclaje _Pepenotecnia._
-3. Refundar el monasterio (JLA)
-4. …
-5. Vipassana Pátzcuaro
+2. Refundar el monasterio (JLA)
+2. Sobre la lectura
+2. Vipassana Pátzcuaro
+2. Sobre el libro vacío
+3. —
+
+## Paternidad, crianza
+* Sandra y la contemplación
+* Libros para niños (mil lágrimas)
+* Acerca del sufrimiento, la alegría (extática) permanente y la felicidad
