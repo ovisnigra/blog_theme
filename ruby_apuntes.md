@@ -1,6 +1,6 @@
-# Apuntes ruby en jakranchu
+# Apuntes de Ruby en el _jakranchu_
 
-https://pad.kefir.red/p/programando_en-Peras
+Pad : <https://pad.kefir.red/p/programando_en-Peras>
 
 para configurar nuestras maquinas con ruby
 
