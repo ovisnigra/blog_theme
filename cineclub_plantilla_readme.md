@@ -15,7 +15,7 @@ TÍTULO PELÍCULA
 * Reparto: ---
 * Idioma: ---
 * Subtítulos: 
-    - IDIOMA: Incluidos en el archivo del video o `NOMBRE_ARCHIVO_SUBS`[^1]
+    - IDIOMA: Incluidos en el archivo del video o `NOMBRE_ARCHIVO_SUBS` o acciones a seguir para activar [^1].
 
 [^1]: ORIGEN_SUBS
 
