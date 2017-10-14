@@ -66,12 +66,25 @@ rosalux.org.mx/docs/resistencia_telecom_es.webm
 
 ---
 
+# Día 1
+
 Mi cel:
 Polaroid P4005c (o C4)
 Android --versión 5.1 (lollipop)
 
-Aunque un celular tenga espacio para tarjeta SD esto no asegura que se puede usar como almacenamiento interno. Si se quiere lograr esto es necesario configurar varias cosas para, por principio lograr pasar aplicaciones de la memoria interna a la SD. También es importante escojer una tarjeta SD lo suficientemente rápida para que las aplicaciones no se alenten (clase 10, de preferencia).
+Aunque un celular tenga espacio para tarjeta SD esto no asegura que se puede usar como almacenamiento interno. Si se quiere lograr esto es necesario configurar varias cosas para, por principio lograr pasar aplicaciones de la memoria interna a la SD. También es importante escojer una tarjeta SD lo suficientemente rápida para que las aplicaciones no se alenten [(clase 10, de preferencia).](https://www.tomsguide.com/us/move-android-apps-to-sd-card,news-21279.html)
 
-1) [Rootear](http://computerhoy.com/paso-a-paso/moviles/como-mover-apps-memoria-interna-tarjeta-sd-57840) Ir a la sección 3, Android 5 y previos.
-2) [Crear particiones en tarjeta SD](https://www.partitionwizard.com/free-partition-manager.html)
-3) 
+
+un par de consejos
+
+* [mover aplicaciones a la tarjeta SD](http://computerhoy.com/paso-a-paso/moviles/como-mover-apps-memoria-interna-tarjeta-sd-57840) Ir a la sección 3, Android 5 y previos.
+* [Crear particiones en tarjeta SD](https://www.partitionwizard.com/free-partition-manager.html)
+
+
+# Día 2
+
+Entonces,
+
+1. Hay que encontrar un software que haga el root al celular (en mi caso busco uno que jale en la mac). Instalé [OneClickRoot](https://www.oneclickroot.com/polaroid/)
+2. Para correr el software es necesario activar **USB debugging**. Para ello hay que activar **Developer mode**. Se supone que: en el menú ajustes > acerca del dispositivo > y hay que hacer click de 5 a 7 veces seguidas en **Build númber** que sería "número de compilación" según [este video](https://www.youtube.com/watch?v=GyxVa88BO9Y). En mi cel no aparece esta opción. Le estuve picando hasta que ¡EUREKA! lo encontré picando 5 veces en Versión de Software. Ahora ya tengo Opciones del programador. USB Debugging, activado.
+3.
