@@ -84,6 +84,7 @@ Residents
 Tuxedomon
 The Contortions
 
+
 ### Lista de vida
 
 #### Primera infancia
@@ -93,6 +94,7 @@ The Contortions
 * _Marcha de Zacatecas,_ (?)
 * _,_ quién
 * _,_ quién
+
 
 ## Prints
 
