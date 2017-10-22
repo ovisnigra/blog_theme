@@ -1,4 +1,9 @@
-# Lasagna
+---
+layout: post
+title: "Lasagna"
+date: 2017-09-06
+tags: [recetas]
+---
 
 _Cantidades para 10 porciones (2 charolas medianas)_
 

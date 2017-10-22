@@ -1,5 +1,9 @@
-# Whishlist
- 
+---
+layout: post
+title: "Whishlist"
+date: 2017-09-23
+tags: [divagar, pendientes, listas]
+---
 
 ## Links/Lecturas
 | links | links | links |

@@ -1,5 +1,9 @@
-
-# Procastinar y divagar, la vida misma
+---
+layout: post
+title: "Procrastinador divagador"
+date: 2017-08-30
+tags: [divagar]
+---
 
 ## Parapapá
 
