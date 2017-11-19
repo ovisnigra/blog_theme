@@ -20,3 +20,12 @@ YAML
 * gitg
 * GNU emacs 24
 * ARandR
+
+
+# comandos
+
+- ifconfig:
+- lsusb:
+- rfkill list all: 
+  - soft blocked
+  - hard blocked
