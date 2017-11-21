@@ -40,6 +40,7 @@ tags: [divagar]
   * Arte - Ocio - Juego
   * Hay ideas cruzadas con lo de crianza (tal vez habría que empezar por ahí)
   * _Coworking_
+  * _Dev Bootcamp_
 
 ## Miscelánea
 
@@ -47,14 +48,28 @@ tags: [divagar]
 2. Reciclaje _Pepenotecnia._
 2. Refundar el monasterio (JLA)
 2. Sobre la lectura
-2. Vipassana Pátzcuaro
+2. Vipassana Pátzcuaro <-- "Bootcamp/Vipassana"
 2. Sobre _El Libro vacío_
-3. —
+3. #
 
 ## Paternidad, crianza
 * Sandra y la contemplación
 * Libros para niños
-  * _Mil lágrimas_
-  * El suizo de los animalitos con chapitas
-  *
+  - _Mil lágrimas_
+  - El suizo de los animalitos con chapitas
+  - Indestructibles
+  - #
 * Acerca del sufrimiento, la alegría (extática) permanente y la felicidad
+
+## El cuento de nunca acabar
+
+| HTML    | CSS      | SASS    | LESS     | Jekyll   | Liquid   |
+| Linux   | Bundler  | Ruby    | BASH     | GIT      | Make     |
+| SSH     | Markdown | Pandoc  | YAML     | Github   | Gitlab   |
+| VPN     |
+| 
+| 
+
+
+
+
