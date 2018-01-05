@@ -58,3 +58,5 @@ _?_ | ? |
 _Sunset Boulevard,_ Billy Wilder
 _Diario de una recamarera,_ Buñuel
 _Gods must be crazy,_ Jamie Uys, 1980
+_The Square. La Farsa del Arte,_ Ruben Östlund | Suecia | 2017 | 142 min.
+_Las Tinieblas,_ Daniel Castro Zimbrón | México | 2016 | 94 min.
