@@ -29,3 +29,8 @@ YAML
 - rfkill list all: 
   - soft blocked
   - hard blocked
+ - sudo apt-get install ibus
+   - ibus-setup
+   
+ # portable buinsenlabs
+ https://www.bunsenlabs.org/installation.html#live-cddvdusb-key-method
