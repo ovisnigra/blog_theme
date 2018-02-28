@@ -15,7 +15,7 @@ tags: [divagar, pendientes, listas]
 | [Wired, Battery of the Future](https://www.wired.com/2017/02/researchers-racing-build-battery-future/) | [PI on Raspberry Pi](https://www.wired.com/2017/03/lets-calculate-pi-raspberry-pi-celebrate-pi-day/) | [San Francisco Symphony SoundBox](https://www.wired.com/2017/03/san-francisco-soundbox/) |
 | [Women - Electronic Music](http://www.openculture.com/2015/06/hear-seven-hours-of-women-making-electronic-music-1938-2014.html) | [Playin instrument's good for your brain](http://www.openculture.com/2014/08/playing-an-instrument-is-a-great-workout-for-your-brain.html) | [Alguien está animando sus pinturas favoritas](https://creators.vice.com/es_mx/article/alguien-esta-animando-sus-pinturas-favoritas-de-internet?utm_source=tcptwmx) |
 | [Gnumeric](http://www.gnumeric.org/) | [OpenDoc](https://en.wikipedia.org/wiki/OpenDoc) | [Tufte Cyber Tips](https://www.edwardtufte.com/tufte/advocate_flatland2) |
-| [xxx](xxx) | [xxx](xxx) | [xxx](xxx) |
+| [The Coming Software Apocallypse](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/?utm_source=fbb) | [xxx](xxx) | [xxx](xxx) |
 | [xxx](xxx) | [xxx](xxx) | [xxx](xxx) |
 | [xxx](xxx) | [xxx](xxx) | [xxx](xxx) |
 | [xxx](xxx) | [xxx](xxx) | [xxx](xxx) |
