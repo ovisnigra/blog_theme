@@ -18,7 +18,7 @@ Para el ragú:
 * 1 ramita de apio
 * 50 a 100 g de tocino picado
 * 200 g de carne molida de puerco
-* 1 cucharada de cilantro pejeril picado
+* 1 cucharada de pejeril picado
 * 1 cucharada de cilantro picado
 * 1 o 2 hojas de albahaca (opcional)
 * Vino blanco
@@ -59,7 +59,7 @@ Para la lasagna:
 ### Lasagna
 
 * En un refractario poner una capa de ragú en la base.
-* Remojar las hojas de pasta completamente en la salsa de ragú y colocarlas un poco sobrepuestas llenando una capa en el refractario.
+* Remojar las hojas de pasta completamente en la salsa de ragú y colocarlas ligeramente sobrepuestas llenando una capa en el refractario.
 * Con una brochita esparcir un poco de huevo batido (con un poco de leche) sobre la capa de pasta.
 * Poner una capa de queso oaxaca o manchego encima.
 * Repetir el procedimiento pasta-huevo-queso hasta llenar el refractario.
