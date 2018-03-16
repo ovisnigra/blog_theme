@@ -35,3 +35,9 @@ YAML
  # portable buinsenlabs
  https://www.bunsenlabs.org/installation.html#live-cddvdusb-key-method
  https://unetbootin.github.io/
+
+# Temas
+- Dual Boot: (https://www.lifewire.com/dual-boot-linux-and-mac-os-4125733)
+- Libro sobre linux
+- **Boot manager.** rEFInd
+- **Clonezilla:** Portable linux installation to clone any disc
