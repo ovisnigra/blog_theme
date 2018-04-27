@@ -74,7 +74,7 @@ puede que el secreto de la felicidad sea amar lo que haces, o más bien dicho, n
   - Indestructibles
   - #
 * Acerca del sufrimiento, la alegría (extática) permanente y la felicidad
-* Estoy seguro que la mayoría de las veces lo que aprenden nuestros hijos no s lo que les enseñamos, sino lo que les ~transmitimos~
+* Estoy seguro que la mayoría de las veces lo que aprenden nuestros hijos no s lo que les enseñamos, sino lo que les _transmitimos_
 
 ## El cuento de nunca acabar
 
