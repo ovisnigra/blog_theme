@@ -8,13 +8,21 @@
 
 > Iniciar las cosas está chingón, siempre y cuando seamos capaces de corregir y mejorar sobre la marcha.---
 
-# ¿Qué es la Jacaranda?
+# ¿qué es la Jacaranda?
 
-Esto que cito se lo escuché decir a un cliente:
+esto que cito se lo escuché decir a un cliente acerca de lajaca:
 
-> "La Jacaranda es el lugar más chingón de Pátzcuaro"
+> "(…) el lugar más chingón de pátzcuaro"
 
-Y concuerdo (hasta ahora, porque aún me falta conocer más lugares). Por eso:
+y creo que sí, lajaca es, probablemente, el lugar más chingón de pátzcuaro.
+
+…pero …la jacaranda también es:
+
+- un negocio, un negocio muy mal administrado y organizado
+- ¿una sociedad? ¿una cooperativa? ¿una mezcla de ambas?
+- una plaza cultural (lo que sea que eso nos signifique)
+
+
 
 # ¿Qué quieres que sea?
 
@@ -24,6 +32,13 @@ El lugar más chingón de Pátzcuaro.
 Aquí habría que precisar cuál es mi muy personal idea de "chingón", que seguramente diferirá, mucho o poco, de la de los demás. Entonces me parece mejor decir: _Es el lugar de la ciudad que más amamos._
 
 ---
+_¿qué otras cosas podría ser?_
+
+- ¿un colectivo?
+- ¿una mafia?
+- ¿una teocracia?
+- ¿un martirio?
+- ...
 
 # ¿Qué estás dispuesto a hacer?
 
