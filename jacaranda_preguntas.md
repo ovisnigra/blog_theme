@@ -6,11 +6,11 @@
 * Una plaza cultural. Lo cual resulta algo difícil de definir, pero podemos verla como:
   * Un proyecto cultural.
   + Una plaza comercial.
-* Un lugar de convivencia.
+* Es además lugar de convivencia.
 
 Como negocio está mal administrado y mal organizado.
 
-Como sociedad o cooperativa deja mucho que desear en ambas opciones.
+Como sociedad o cooperativa deja mucho que desear en ambas opciones. No hay buenas dinámicas de comunicación en general y falta claridad en muchos asuntos.
 
 Como espacio y proyecto cultural, su logro más notable es haberse establecido como el mejor foro de conciertos de la ciudad. La intención de ser galería artística ya no destaca. Los talleres, tienen poca frecuencia y (no sé si suficiente) visibilidad, son además difíciles de organizar ya que llegan a interferir con el resto de la operación comercial. Otras actividades, como las clases de yoga, el cineclub, las clases de música o incluso el círculo de costura, me parecen muy afortunadas por tratarse al mismo tiempo de espacios de convivencia y actividades (de algún modo) culturales, además de que no interfieren con el área comercial sino que se apoyan en ella. Hay otras actividades francamente difíciles de ubicar.
 
@@ -57,9 +57,19 @@ Ya mencioné que es difícil de definir, pero el concepto de "Plaza Cultural" me
 Realmente quiero que La Jacaranda refleje en su diversidad, la noción de una "plaza cultural" y que como espacio, sea un referente obligado tanto de lugareños como visitantes de la ciudad.
 
 
+Expectativas personales
+-----------------------
+
+Espero que se generen los recursos para remunerar dignamente nuestro trabajo (el de todos).
+
+Trabajar en un proyecto que me entusiasme.
+
+Nos han visto indecisos y cuestionadores y ese es justamente nuestro sentir. Seguimos llenos de dudas sobre si estaremos disfrutando el esfuerzo entregado, si podremos trabajar en equipo, si mejor quedamos como amigos... sobre todo quisieramos que nuestros cuestionamientos no se hechen en saco roto y estén dispuestos a tomar en cuenta las críticas y posibilidades de cambio.
+
+
 ¿Qué estás dispuesto a hacer?
 -----------------------------
 
-Realmente no lo sé, hemos pasado por todos los esquemas y aún no logramos una decisión contundente. Nos han visto indecisos y cuestionadores y ese es justamente nuestro sentir. Queremos realmente intentarlo y brindar todo nuestro tiempo disponible, humanamente no serán más de 40 horas semanales (de las cuales, podríamos plantear 30 de servicio y 10 de actividades diversas como cineclub, difusión, carteles, etc.), pero seguimos llenos de dudas sobre si estaremos disfrutando el esfuerzo entregado, sobre todo quisieramos que nuestros cuestionamientos no se hechen en saco roto y estén dispuestos a tomar en cuenta las críticas y posibilidades de cambio.
+Aportar al trabajo en equipo para que las metas se cumplan. Amansar mi ego desmedido.
 
-Lo pondremos en firme una vez que nos compartan los números en que han estado trabajando y que nos sentemos a negociar y resolver el rompecabezas.
+En cuanto a horas de trabajo y grado de involucramiento como socio, realmente no lo sé. Queremos realmente intentarlo y brindar todo nuestro tiempo disponible, que humanamente no serán más de 40 horas semanales (de las cuales, me gustaría plantear 30 de servicio y 10 de actividades diversas como cineclub, difusión, carteles, etc.). Lo pondremos en firme una vez que nos compartan los números en que han estado trabajando y que nos sentemos a negociar y resolver el rompecabezas.
