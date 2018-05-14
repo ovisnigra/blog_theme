@@ -17,8 +17,8 @@ Como proyecto cultural, su principal logro es el de haberse establecido como el 
 
 Como plaza comercial se subdivide en:
 
-- Una cafetería-bar de la cual me reservo, por ahora, mi opinión.
-- Una pulquería que no ha desarrollado lo suficiente un carácter distintivo para explotar su potencial.
+- Una cafetería-bar.
+- Una pulquería que no ha desarrollado suficientemente un carácter distintivo para explotar su potencial.
 - Una tienda de artesanías con excelente catálogo pero poca o nula difusión. Muy necesitada de desarrollo de ideas. La mezcla de productos me parece que no ayuda.
 - Tienda Nitamakwa. Confusa en cuanto a productos y criterios y es el único negocio que se extiende por toda la plaza a pesar de no tener un carácter identificable.
 - Tiendas de ropa (Mantacalli, Milla Biflora).
