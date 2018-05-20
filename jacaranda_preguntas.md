@@ -73,3 +73,8 @@ Nos han visto indecisos y cuestionadores y ese es justamente nuestro sentir. Seg
 Aportar al trabajo en equipo para que las metas se cumplan. Amansar mi ego desmedido.
 
 En cuanto a horas de trabajo y grado de involucramiento como socio, realmente no lo sé. Queremos realmente intentarlo y brindar todo nuestro tiempo disponible, que humanamente no serán más de 40 horas semanales (de las cuales, me gustaría plantear 30 de servicio y 10 de actividades diversas como cineclub, difusión, carteles, etc.). Lo pondremos en firme una vez que nos compartan los números en que han estado trabajando y que nos sentemos a negociar y resolver el rompecabezas.
+
+
+Realmente no quiero ser socio, prefiero ser colaborador.
+
+¿me prestan su cineclub? ¿quién quiere colaborar en eso?
