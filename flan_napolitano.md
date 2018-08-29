@@ -16,8 +16,6 @@ _Para una flanera chica_
 
 ## 2. Preparación
 
-### Ragú
-
-* En una licuadora vaciar todos los ingredientes (si estás muy pacheco, acuérdate de no echar los huevos con todo y cascarón)
-* Licuar
-* Hornear a 230 ˚C
+* En una licuadora vaciar todos los ingredientes (si estás muy pacheco, acuérdate de no echar los huevos con todo y cascarón) y licuar.
+* En la flanera echar una cucharada de azúcar y calentar a fuego bajo, tostar un poco sin que se queme.
+* Hornear a 230 ˚C por 45 minutos.
