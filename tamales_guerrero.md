@@ -10,7 +10,7 @@ tags: [recetas]
 
 ## Masa
 
-* Revolver 12kg de harina con 3 kg de manteca de cerdo
+* Revolver 12 kg de harina con 3 kg de manteca de cerdo
 * Echar caldo de pollo y cerdo y revolver en círculos
 * Añadir 2 cucharaditas de royal y sal
 * Echar poco a poco tanta agua como sea necesaria para que la masa no esté ni muy espesa ni líquida.
@@ -24,7 +24,7 @@ tags: [recetas]
 
 ## Verdes
 
-* Hervir 2.5kg de pechuga de pollo con ajo, cebolla y sal.
+* Hervir 2.5 kg de pechuga de pollo con ajo, cebolla y sal.
 * Separar el caldo para la masa.
 * Desmenuzar las pechugas en trozos no muy delgados.
 * Hervir 3 kg de tomate con 1/4 de chile serrano.
@@ -48,7 +48,7 @@ tags: [recetas]
 # Tamales dulces
 (40 porciones)
 
-* Revolver en círculos 2kg de harina con 1/2 kg de manteca de cerdo, 1/2 de azúcar, 1/4 de coco rallado remojado previamente, 1/4 de pasas, 3 chorritos de esencia de coco y un poquitito de royal.
+* Revolver en círculos 2 kg de harina con 1/2 kg de manteca de cerdo, 1/2 de azúcar, 1/4 de coco rallado remojado previamente, 1/4 de pasas, 3 chorritos de esencia de coco y un poquitito de royal.
 * Rellenar hojas de tamal.
 
 # Tamales
