@@ -18,4 +18,4 @@ _Para una flanera chica_
 
 * En una licuadora vaciar todos los ingredientes (si estás muy pacheco, acuérdate de no echar los huevos con todo y cascarón) y licuar.
 * En la flanera echar una cucharada de azúcar y calentar a fuego bajo, tostar un poco sin que se queme.
-* Hornear a 230 ˚C por 45 minutos.
+* Vaciar la mezcla de la licuadora a la flanera, cerrar y hornear a 230-250 ˚C por 50 minutos.
