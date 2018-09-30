@@ -61,10 +61,18 @@ Miscelánea
 9. Letra cambiada de _El Aventurero_: "Yo soy el aventurero, el mundo me importa poco… …Me gustan las altas y las chiquititas… …me gustan los calvos y las gallinitas… etc… etc…"
 4. Machismo, nuestro lado ms cavernícola.
 3. Había una vez un Sioux que no podía dormir a su hijo (¡qué chingados!!!???)
+4. **Pregunta para Rot: ¿el espiritu del grupo _la lengua_ era ponerse hasta la madre y dar un show? ¿no quisieran hacer un reencuentro en la jacaranda?**
+5.
 
 Felicidad
 =========
 puede que el secreto de la felicidad sea amar lo que haces, o más bien dicho, nunca dejar de hacer algo que amas. aunque la felicidad es una trampa, no se te olvide.
+
+busqué _felicidad_ y _feliz_ en el diccionario. ninguna descripción me hizo sentido. la entiendo como un estado absoluto, una ausencia de todo lo que causa angustia, temor, frustración, maldad a secas. un paraíso pues. 
+
+la felicidad, es por definición un estado absoluto. perseguirla, pretender que puedes llegar a ella es… si no tramposo, estúpido. la felicidad absoluta sería la estupidez absoluta (descripción del cachas).
+
+lo más cercano a eso que puedes tener en esta puta vida es al menos no dejar de hacer algo que amas.
 
 ## Paternidad, crianza
 * Sandra y la contemplación
@@ -74,7 +82,7 @@ puede que el secreto de la felicidad sea amar lo que haces, o más bien dicho, n
   - Indestructibles
   - #
 * Acerca del sufrimiento, la alegría (extática) permanente y la felicidad
-* Estoy seguro que la mayoría de las veces lo que aprenden nuestros hijos no s lo que les _enseñamos,_ sino lo que les _transmitimos_
+* Estoy seguro que la mayoría de las veces lo que aprenden nuestros hijos no es lo que les _enseñamos,_ sino lo que les _transmitimos_
 
 ## El cuento de nunca acabar
 
@@ -82,9 +90,10 @@ puede que el secreto de la felicidad sea amar lo que haces, o más bien dicho, n
 | Linux   | Bundler  | Ruby    | BASH     | GIT      | Make     |
 | SSH     | Markdown | Pandoc  | YAML     | Github   | Gitlab   |
 | VPN     |
-| 
-| 
+|
+|
 
+amigosdelpedal
+==============
 
-
-
+Ese es el nombre de la generación, #amigosdelpedal. amigos de la adolescencia (¿o infancia?).
