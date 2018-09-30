@@ -66,9 +66,9 @@ Miscelánea
 
 Felicidad
 =========
-puede que el secreto de la felicidad sea amar lo que haces, o más bien dicho, nunca dejar de hacer algo que amas. aunque la felicidad es una trampa, no se te olvide.
+el secreto de la felicidad ha de ser amar lo que haces, o más bien dicho, nunca dejar de hacer algo que amas. aunque la felicidad es una trampa, lo sabes.
 
-busqué _felicidad_ y _feliz_ en el diccionario. ninguna descripción me hizo sentido. la entiendo como un estado absoluto, una ausencia de todo lo que causa angustia, temor, frustración, maldad a secas. un paraíso pues. 
+busqué _felicidad_ y _feliz_ en el diccionario. ninguna descripción me hizo sentido. la entiendo como un estado absoluto, una ausencia de todo lo que causa angustia, temor, frustración, maldad a secas. un paraíso pues.
 
 la felicidad, es por definición un estado absoluto. perseguirla, pretender que puedes llegar a ella es… si no tramposo, estúpido. la felicidad absoluta sería la estupidez absoluta (descripción del cachas).
 
