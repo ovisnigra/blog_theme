@@ -1,26 +1,17 @@
 ---
-PLANTILLA
+PLANTILLA CINECLUB JACARANDA
 ---
 
-📽  Lunes de cine en La Jacaranda cultural  📽
+📽  Lunes de *c i n e c l u b* en La Jacaranda cultural  📽
 Dr. Coss 4, Centro, Pátzcuaro • 7:07 PM
 
-Este lunes tendremos *Ambulante Presenta:*
-
-*Mitote*
-
-| México | 2012 | 53 min |
-
-
-Dir: Eugenio Polgovsky 
-
-Inicio de ciclo del programa _Eugenio Polgovsky en tres actos._ Tres obras de Eugenio Polgovsky —uno de los más destacados documentalistas de nuestro tiempo— componen un programa que revela su fascinación por la memoria, la herencia y el paso del tiempo.
-
-_Mitote_ reúne una serie de celebraciones, invocaciones
-y protestas que revelan el rostro de un país eufórico y
-enfurecido. Chamanes, electricistas en huelga y fanáticos
-del futbol se reúnen en un mismo espacio: el Zócalo de la
-Ciudad de México.
-
 --
-Les recordamos que ya volvimos al horario solar, por lo que ahora las funciones comenzarán a las 7:07 PM.
+Este lunes, seguimos revisando el ciclo _Eugenio Polgovsky en tres actos_ programado en colaboración con *Ambulante presenta*. Reponemos la película que hace ocho días no pudimos ver por fallos técnicos:
+
+*Trópico de Cáncer*
+
+| México | 2004 | 52 min |
+
+Dir: Eugenio Polgovsky
+--
+Sinópsis: Retrata la sobrevivencia de una familia en el desierto de San Luis Potosí mediante la cacería de animales, aprovechando los elementos que la naturaleza les brinda.

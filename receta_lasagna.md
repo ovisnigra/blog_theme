@@ -12,12 +12,12 @@ _Cantidades para 10 porciones (2 charolas medianas)_
 Para el ragú:
 
 * 2 l de puré de tomate o _passata di pomodoro_
-* Media cebolla grande
-* 1 o 2 dientes de ajo grandes
-* 1 zanahoria (chica o mediana)
-* 1 ramita de apio
 * 50 a 100 g de tocino picado
 * 200 g de carne molida de puerco
+* 1 zanahoria (chica o mediana)
+* Media cebolla grande
+* 1 ramita de apio
+* 1 o 2 dientes de ajo grandes
 * 1 cucharada de pejeril picado
 * 1 cucharada de cilantro picado
 * 1 o 2 hojas de albahaca (opcional)
