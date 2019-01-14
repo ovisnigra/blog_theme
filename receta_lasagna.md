@@ -26,7 +26,7 @@ Para el ragú:
 Para la lasagna:
 
 * 500 g de pasta para lasagna
-* 500 g de quesillo o manchego en rebanadas
+* 600 g de quesillo o manchego en rebanadas
 * Parmesano rallado
 * Mantequilla, harina y leche para la _bechamel_
 * 1 huevo
@@ -49,8 +49,8 @@ Para la lasagna:
 
 ### Bechamel
 
-* En una sartén o charolita chica, derretir 1/3 aprox. de una barrita de mantequilla.
-* Mantener el fuego bajo y espolvorear (con una coladera chica) harina de trigo.
+* En una sartén o charolita chica, derretir 1/3 (apróx.) de una barrita de mantequilla.
+* Mantener el fuego bajo y espolvorear harina de trigo con una coladera chica.
 * Remover para que no se hagan grumos.
 * Añadir poco a poco la leche para dar consistencia.
 * Añadir más harina trigo o leche según se necesite. La consistencia debe ser cremosa y líquida para poder vertir sobre la lasaña.

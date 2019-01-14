@@ -1,4 +1,4 @@
-# El uso de la bici ¿realmente genera beneficios para la Ciudad de México?
+# El uso de la bici ¿realmente genera beneficios ambientales para la Ciudad de México?
 
 Preguntas:
 
@@ -11,7 +11,7 @@ R: realmente no hay beneficios ambientales, nos gustaría que hubiera pero no es
 
 R: me parece más bien, realista:
 
-Como bien escribes, podemos tomar como datos duros las comparaciones de auto vs. bici sobre gasto energético, emisiones, etc. Visto así, sin duda la bici es más eficiente (en todos sentidos) que el auto. Ojo, individualmente. 
+Como bien escribes, podemos tomar como datos duros las comparaciones de auto vs. bici sobre gasto energético, emisiones, etc. Visto así, sin duda la bici es más eficiente (en todos sentidos) que el auto. Ojo, individualmente.
 
 Luego, calculando la cantidad de viajes en bici podemos extrapolar y deducir todo lo que se ahorra en gasolina y emisiones para la ciudad. Ahí un primer error, me parece, es pensar que cada viaje en bici es un viaje en auto que no se realiza, no necesariamente es así.
 
