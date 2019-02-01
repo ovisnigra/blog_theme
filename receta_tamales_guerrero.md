@@ -8,9 +8,12 @@ tags: [recetas]
 # Tamales salados
 (240 porciones)
 
+## Ingredientes
+_PENDIENTE_
+
 ## Masa
 
-* Revolver 12 kg de harina con 3 kg de manteca de cerdo
+* Revolver 12 kg de harina con 3 kg de manteca de cerdo (o manteca vegetal)
 * Echar caldo de pollo y cerdo y revolver en círculos
 * Añadir 2 cucharaditas de royal y sal
 * Echar poco a poco tanta agua como sea necesaria para que la masa no esté ni muy espesa ni líquida.
