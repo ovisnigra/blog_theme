@@ -11,25 +11,27 @@ _Cantidades para 10 porciones (2 charolas medianas)_
 
 Para el ragú:
 
-* 2 l de puré de tomate o _passata di pomodoro_
-* 50 a 100 g de tocino picado
-* 200 g de carne molida de puerco
-* 1 zanahoria (chica o mediana)
-* Media cebolla grande
-* 1 ramita de apio
-* 1 o 2 dientes de ajo grandes
-* 1 cucharada de pejeril picado
-* 1 cucharada de cilantro picado
-* 1 o 2 hojas de albahaca (opcional)
-* Vino blanco
+* 2 l de puré de tomate o _passata di pomodoro_ [$10, kilo jitomate + $24 litro La Costeña]
+* 50 a 100 g de tocino picado [15?]
+* 200 g de carne molida de puerco [$30]
+* 1 zanahoria (chica o mediana) [2]
+* Media cebolla grande [3]
+* 1 ramita de apio [2]
+* 1 o 2 dientes de ajo grandes [5]
+* 1 cucharada de pejeril picado [2]
+* 1 cucharada de cilantro picado [2]
+* 1 o 2 hojas de albahaca (opcional) [?]
+* Vino blanco [?]
 
 Para la lasagna:
 
-* 500 g de pasta para lasagna
-* 600 g de quesillo o manchego en rebanadas
-* Parmesano rallado
-* Mantequilla, harina y leche para la _bechamel_
-* 1 huevo
+* 500 g de pasta para lasagna []
+* 600 g de quesillo o manchego en rebanadas [60]
+* Parmesano rallado [$50]
+* Mantequilla, harina y leche para la _bechamel_ [10]
+* 1 huevo [3]
+
+TOTAl gastos: [$194 + pasta, ¿aprox. 220?]
 
   Opcional:
   Para una versión vegetariana se pueden poner champiñones, berenjenas, calabacitas preparadas aparte entre cada capa de la lasagna

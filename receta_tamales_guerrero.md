@@ -18,7 +18,7 @@ _PENDIENTE_
 * Añadir 2 cucharaditas de royal y sal
 * Echar poco a poco tanta agua como sea necesaria para que la masa no esté ni muy espesa ni líquida.
 
-## Consejos
+### Consejos
 
 * Asolear la manteca para que no esté dura
 * Comprar la harina el mismo día que se preparan los tamales

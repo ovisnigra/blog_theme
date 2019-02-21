@@ -9,7 +9,7 @@ _Cantidades para 4 porciones_
 100 g de fideos
 1/4 de queso fresco
 Un puñado de hojas de aguacate
-5 o 56 dientes de ajo medianos
+5 o 6 dientes de ajo medianos
 Aceite de cártamo (o algún otro ligero)
 Aceite de oliva (opcional)
 Vino blanco (opcional)
