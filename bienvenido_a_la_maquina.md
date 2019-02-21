@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "Bienvenido a la máquina"
-date: 2017-08-30
-tags: [divagar]
+title: "bienvenido a la máquina"
+comments: false
+description: "divagación"
+keywords: "texto, post"
 ---
+date: 2017-08-30
+
 
 Al señor le quieren chingar como 40 pesos. Lo mío iban a ser como 50.
 

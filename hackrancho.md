@@ -1,3 +1,10 @@
+---
+layout: post
+title: "hackRanch0"
+comments: false
+description: "texto para la vaca ranchera"
+keywords: "rancho, electronico, post"
+---
 
 # hackRanch0
 

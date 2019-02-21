@@ -1,3 +1,11 @@
+---
+layout: post
+title: "apuntes qgis"
+comments: false
+description: "apuntes qgis"
+keywords: "apuntes, qgis"
+---
+
 # Apuntes de QGIS
 
 Usando versión:

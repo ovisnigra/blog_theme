@@ -1,5 +1,9 @@
 ---
-css
+layout: post
+title: "apuntes css"
+comments: false
+description: "apuntes css"
+keywords: "apuntes, css"
 ---
 
 vincular hoja de estilos
@@ -36,7 +40,7 @@ Using a relative path is very common way of linking a stylesheet.
 </head>
  <link href="style.css" type="text/css" rel="stylesheet">
  ´´´
- 
+
  ### Diferencia entre tags, class y ID
- 
+
  CSS puede aplicar a tags específicos del html o a classes o a ID el orden de prioridad es ID->class->tag

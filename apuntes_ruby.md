@@ -1,3 +1,11 @@
+---
+layout: post
+title: "apuntes ruby"
+comments: false
+description: "apuntes ruby"
+keywords: "apuntes, ruby"
+---
+
 # Apuntes de Ruby en el _jakranchu_
 
 Pad : <https://pad.kefir.red/p/programando_en-Peras>

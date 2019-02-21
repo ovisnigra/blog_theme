@@ -1,3 +1,11 @@
+---
+layout: post
+title: "apuntes pandoc"
+comments: false
+description: "apuntes pandoc"
+keywords: "apuntes, pandoc"
+---
+
 Comandos pandoc
 ===============
 

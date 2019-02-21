@@ -1,5 +1,9 @@
 ---
-YAML
+layout: post
+title: "apuntes git"
+comments: false
+description: "apuntes git"
+keywords: "apuntes, git"
 ---
 
 # instalar git (Debian based systems)
