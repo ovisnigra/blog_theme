@@ -31,7 +31,7 @@ Reinicio 2019 con nuevas pruebas, buscando una máquina dónde instalar.
 
 Estoy probando:
 
-- **Bunsenlabs:** Con ambiente operativo **OpenBox, Tint2, etc.** _Tomar notas de componentes esenciales_
+- **Bunsenlabs:** Con ambiente operativo **OpenBox, Tint2, etc.** _Tomar notas de componentes esenciales_ Ver: [https://youtu.be/TUXohePdiR4]
 - **Kali linux:** Con ambiente operativo **LXLE.** _Chingón para pruebas de haxk_wifi_
 - **MX linux:** Con ambiente operativo **XFCE.** _De los ambientes operativos livianos o medianos, XFCE me parece que es lo más familiar y fácil de aprender como para cuando eres principiante. Y está distribución lo está haciendo muy bien en cuanto a configurabilidad y desarrollo de herramientas de apoyo bastante chidas. Fácil de hacer disco con persistencia, clonar, etc. Quiero seguirlo probando en Ufemia.
 
@@ -41,7 +41,7 @@ En cuanto a ambientes operativos:
 - **LXDE:** Muy liviano y fácil de aprender. Basado en OpenBox
 - **Openbox:** El puro gestor de ventanas, simple y súpoer rápido. Como en la distribución de Bunsen, un simple gestor de ventanas más un panel (Tint2), más un lanzador y alguna que otra cosa, bastan pa tener un mínimo ambiente operativo altamente configurable.
 
-Me quedan por probar gestores de ventanas aún más simples como  **Ratpoison** o **Xmonad**. Que se ven muy interesantes en cuanto a la rapidez de trabajo que se logra con ellos aunque cuesta un poco más dominarlos.
+Me quedan por probar gestores de ventanas aún más simples como  **Ratpoison** o **Xmonad** [https://xmonad.org/] Que se ven muy interesantes en cuanto a la rapidez de trabajo que se logra con ellos aunque cuesta un poco más dominarlos.
 
 De los más complejos quisiera, sólo por curiosidad, explorar **Unity**, **Gnome**, **KDE**.
 
