@@ -63,7 +63,7 @@ De los más complejos y populares, habría que probar (si hay chance) **Unity**,
  - sudo apt-get install ibus
    - ibus-setup
 
- # portable buinsenlabs
+ # portable bunsenlabs
  https://www.bunsenlabs.org/installation.html#live-cddvdusb-key-method
  https://unetbootin.github.io/
 
