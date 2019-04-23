@@ -76,7 +76,9 @@ De los más complejos y populares, habría que probar (si hay chance) **Unity**,
 
 From within a terminal, try
 
-'sudo update-alternatives --config x-terminal-emulator'
+'''
+sudo update-alternatives --config x-terminal-emulator
+'''
 
 Select the desired terminal from the list of alternatives.
 
