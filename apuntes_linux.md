@@ -52,7 +52,6 @@ De los más complejos y populares, habría que probar (si hay chance) **Unity**,
 - - -
 * * *
 
-
 # comandos
 
 - ifconfig:
@@ -72,3 +71,12 @@ De los más complejos y populares, habría que probar (si hay chance) **Unity**,
 - Libro sobre linux
 - **Boot manager.** rEFInd
 - **Clonezilla:** Portable linux installation to clone any disc
+
+# How do I change default terminal?
+
+From within a terminal, try
+
+'sudo update-alternatives --config x-terminal-emulator'
+
+Select the desired terminal from the list of alternatives.
+
