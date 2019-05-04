@@ -10,27 +10,27 @@ date: 2017-09-06
 Clayudas
 --------
 
-_Cantidades para 50 (?) porciones_
+_Cantidades para 40-50 (?) porciones_
 
 ## Ingredientes
 
-* Clayudas de tamaño reglamentario
-* Asiento
-* Queso fresco o quesillo (2 k)
-* 1 Col grande
-* Frijol (1 k)
-* Hojas de aguacate
-* Ajo (2 cabezas)
+* 40-50 Tlayudas de tamaño reglamentario
+* 1/2 k de asiento
+* 2.5 k de queso fresco o quesillo
+* 1 col grande
+* 0.5 k de frijol
+* 20-25 g de hojas de aguacate
+* 1 cabeza de ajo
 
 ### Salsas
-* 30 Chiles de agua
-* 20 limones (1 k apróx.)
-* 1 y media cebollas medianas
-* Chiles pasilla mixes (1/4 k)
-* Miltomate (750 g)
-* Jitomate (750 g)
-* Chile de árbol (5 pzas?)
-* Aguacate (1 k apróx.)
+* 15 a 30 chiles de agua, dependiendo del tamaño
+* 10 a 12 limones (0.5 k apróx.)
+* 1 y media cebollas medianas o 1 grande
+* 60 g de chiles pasilla mixes
+* 0.5 k de miltomate
+* 0.5 k de jitomate
+* 1 chile de árbol (poco picosa)
+* 500 g de aguacate
 
 ### Carnes
 * Tasajo (1 k)
@@ -56,10 +56,15 @@ Poner a remojar una noche antes. Para una olla de presión de 4 litros, la canti
 Asar los chiles. Pelarlos. Cortarlos en rajas. Rebanar cebolla en medias lunas. Mezclar y exprimir el jugo de limón en la mezcla. Mezclar de nuevo, salar y dejar reposar.
 
 ### Salsa de chile pasilla
-Asar los miltomates, 5 o 6 dientes de ajo y los chiles pasilla. Licuar. Salar. Licuar. Añadir agua.
+Asar los miltomates, 2 o 3 dientes de ajo y los chiles pasilla. Licuar. Salar. Licuar. Añadir agua.
 
 ### Salsa de tomate con chile de árbol (o serrano)
-Asar los tomates, 5 o 6 dientes de ajo y los chiles de árbol. Licuar. Salar. Licuar. Añadir agua.
+Asar los tomates, 2 o 3 dientes de ajo y los chiles de árbol. Licuar. Salar. Licuar. Añadir agua.
 
 ### Salsa de jitomate sin chiles
 Igual que las anteriores pero sin chile.
+
+---
+### No te olvides de picar la col y el quesillo.
+
+### Descongelar frijoles.
