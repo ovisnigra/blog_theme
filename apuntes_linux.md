@@ -32,8 +32,9 @@ Reinicio 2019 con nuevas pruebas, buscando una máquina dónde instalar.
 Estoy probando:
 
 - **Bunsenlabs:** Con ambiente operativo **OpenBox, Tint2, etc.** _Tomar notas de componentes esenciales_ Ver: [https://youtu.be/TUXohePdiR4]
-- **Kali linux:** Con ambiente operativo **LXLE.** _Chingón para pruebas de haxk_wifi_
-- **MX linux:** Con ambiente operativo **XFCE.** _De los ambientes operativos livianos o medianos, XFCE me parece que es lo más familiar y fácil de aprender como para cuando eres principiante. Y está distribución lo está haciendo muy bien en cuanto a configurabilidad y desarrollo de herramientas de apoyo bastante chidas. Fácil de hacer disco con persistencia, clonar, etc. Quiero seguirlo probando en Ufemia.
+- **Kali linux:** Con ambiente operativo **LXLE.** _Chingón para pruebas de hack_wifi_
+- **MX linux:** Con ambiente operativo **XFCE.** _De los ambientes operativos livianos o medianos, XFCE me parece que es lo más familiar y fácil de aprender como para cuando eres principiante. Y está distribución lo está haciendo muy bien en cuanto a configurabilidad y desarrollo de herramientas de apoyo bastante chidas. Fácil de hacer disco USB con persistencia, clonar, respaldar, etc. Es el que seguiré probando en Ufemia.
+  - Update (4 mayo): El USB con persistencia no me ha gustado mucho porque se alenta.
 
 En cuanto a ambientes operativos:
 
