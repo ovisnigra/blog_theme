@@ -39,18 +39,19 @@ Estoy probando:
 En cuanto a ambientes operativos:
 
 - **XFCE:** De los ambientes operativos livianos o medianos, XFCE me parece que es lo más familiar y fácil de aprender como para cuando eres principiante. Es más bien liviano, pero jala bien en mi iMac del 2005.
-- **LXDE:** Muy liviano y fácil de aprender. Basado en OpenBox
+- **LXDE:** Muy liviano y fácil de aprender. Basado en OpenBox. 
+  - https://lxde.org
+  - https://www.zdnet.com/article/how-to-customise-your-linux-desktop-lxde/
 - **Openbox:** El puro gestor de ventanas, simple y súpoer rápido. Como en la distribución de Bunsen, un simple gestor de ventanas más un panel (Tint2), más un lanzador y alguna que otra cosa, bastan pa tener un mínimo ambiente operativo altamente configurable.
 
-Me quedan por probar gestores de ventanas aún más simples como  **Ratpoison** o **Xmonad** [https://xmonad.org/] Que se ven muy interesantes en cuanto a la rapidez de trabajo que se logra con ellos aunque cuesta un poco más dominarlos.
+Me quedan por probar gestores de ventanas aún más simples como  **Ratpoison** o **Xmonad** [https://xmonad.org/] Que se ven interesantes en cuanto a la rapidez de trabajo que se logra con ellos aunque cuesta un poco más dominarlos. UPDATE: probé un poco **awesomeWM** y **xmonad**. voy a probar **bspwm**. Con Ratpoison no he podido hacer que jale.
 
-De los más complejos quisiera, sólo por curiosidad, explorar **Unity**, **Gnome**, **KDE**.
+De los más complejos y populares, habría que probar (si hay chance) **Unity**, **Mate**, **Gnome**, **KDE**.
 
 
 * * *
 - - -
 * * *
-
 
 # comandos
 
@@ -62,7 +63,7 @@ De los más complejos quisiera, sólo por curiosidad, explorar **Unity**, **Gnom
  - sudo apt-get install ibus
    - ibus-setup
 
- # portable buinsenlabs
+ # portable bunsenlabs
  https://www.bunsenlabs.org/installation.html#live-cddvdusb-key-method
  https://unetbootin.github.io/
 
@@ -71,3 +72,14 @@ De los más complejos quisiera, sólo por curiosidad, explorar **Unity**, **Gnom
 - Libro sobre linux
 - **Boot manager.** rEFInd
 - **Clonezilla:** Portable linux installation to clone any disc
+
+# How do I change default terminal?
+
+From within a terminal, try
+
+'''
+sudo update-alternatives --config x-terminal-emulator
+'''
+
+Select the desired terminal from the list of alternatives.
+
