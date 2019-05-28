@@ -5,7 +5,7 @@ OMINOSA TECNOLOGIA
 
 # Tiempo, tecnología y aceleración. Mirar al pasado-presente-futuro.
 
-¿Qué es el tiempo? Todos tenemos una idea, o una sensación al menos, bastante clara de lo que es, sin embargo, es un concepto difícil de poner en palabras. Yo, por mi parte, no me siento capaz de aventurar una definición, ni quiero. Lo que sí sé es que todos, en algún momento de la vida, adquirimos una conciencia del tiempo, la capacidad de _sentirlo._
+¿Qué es el tiempo? Todos tenemos una idea, o una sensación al menos, bastante clara de lo que es; sin embargo, es un concepto difícil de poner en palabras. Por mi parte, no me siento capaz de aventurar una definición, ni quiero. Lo que sí sé es que todos, en algún momento de la vida, adquirimos una conciencia del tiempo, la capacidad de _sentirlo._
 
 Surgen un montón de preguntas interesantes, pero ociosas: ¿en qué momento adquirimos la conciencia del paso del tiempo? ¿es igual para todos? ¿sabemos que los animales tienen memoria pero, ¿es lo mismo?, ¿son capaces de sentirlo?
 
