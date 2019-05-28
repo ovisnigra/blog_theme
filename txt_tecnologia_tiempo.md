@@ -3,9 +3,18 @@ OMINOSA TECNOLOGIA
 ---
 
 
-# Tiempo, tecnología y aceleración.
+# Tiempo, tecnología y aceleración. Mirar al pasado-presente-futuro.
 
-[Copiar texto escrito]
+¿Qué es el tiempo? Todos tenemos una idea, o una sensación al menos, bastante clara de lo que es, sin embargo, es un concepto difícil de poner en palabras. Yo, por mi parte, no me siento capaz de aventurar una definición, ni quiero. Lo que sí sé es que todos, en algún momento de la vida, adquirimos una conciencia del tiempo, la capacidad de _sentirlo._
+
+Surgen un montón de preguntas interesantes, pero ociosas: ¿en qué momento adquirimos la conciencia del paso del tiempo? ¿es igual para todos? ¿sabemos que los animales tienen memoria pero, ¿es lo mismo?, ¿son capaces de sentirlo?
+
+Me interesa la perspectiva filosófica. Tanta filosofía sesuda interesada en el tiempo, esa que nos condujo a la idea de que el tiempo es esta esencia que nos hace ser lo que somos. Somos tiempo.
+
+
+**Leer:**
+- _Libro de Bertrand Russel, o de varios autores, no recuerdo, sobre el tiempo en la biblioteca Ortiz-Pallares._
+- Pos a Heidegger, dicen. Pero es uno de esos pensadores a los que no puede uno llegar así tan a la ligera, hay que llegarle transversalmente... y dependiendo de la clavadez de cada quien. Los más clavados dicen que hasta habría que aprender alemán porque es intraducible.
 
 
 # Algunas ideas para iniciar alguna actividad alrededor del tema tecnológico
@@ -20,7 +29,7 @@ Prometeo, el chango de Kubrick y la tecnología. Nacimiento de la tecnología en
 
 - - -
 
-# Ciclo introductorio para una cibersecta
+# La cibersecta
 
 ## Temas y actividades
 **1. La invención de la computadora personal**
@@ -40,8 +49,9 @@ Prometeo, el chango de Kubrick y la tecnología. Nacimiento de la tecnología en
  - _Revolution OS_
  - Elaborar presentación sobre sistemas operativos
 
-**3. Sesión práctica.** Hablar de las distribuciones de Linux. Ambientes operativos (WM, OpenBox, LXDE, XFCE, GNOME, etc). Hablar de obsolescencia programada y ambientes operativos ligeros. Instalar linux. Como propuesta podríamos comenzar con explorar XFCE e instalar parejo MX Linux para todos. En máquinas muy viejas probaríamos con LXDE. También como propuesta, mantenernos cerca de Debian.
+**3. Sesión práctica.** Hablar de las distribuciones de Linux. Ambientes operativos (WM, OpenBox, LXDE, XFCE, GNOME, etc). Hablar de obsolescencia programada y ambientes operativos ligeros. Instalar linux. Como propuesta podríamos comenzar con explorar XFCE e instalar parejo MX Linux para todos. En máquinas muy viejas probaríamos con LXDE. También como propuesta, mantenernos cerca de Debian. Explorar las capacidades de MX.
 
+**4. Sesiones prácticas.** Programas particulares. Paquetería de diseño y manipulación de imagen. Inkscape. GIMP.
 
 ## Materiales extra
 - Conferencia de Christian Ferrer. Tema: Filosofía de la tecnología.
@@ -62,4 +72,7 @@ Prometeo, el chango de Kubrick y la tecnología. Nacimiento de la tecnología en
 
 - ¿Por qué en la mac no se puede `cortar` y pegar?
 - `Dead keys` Linux
--
+- `Keyboard layout` en Bunsenlabs
+- Software para subtitular en linux
+- Killers release group ascii
+- Mr. Robot "Red wheelbarrow"
