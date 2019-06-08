@@ -19,6 +19,8 @@ git config --global user.email "correo-e"
 
 # clonar repositorio
 
+Navegar al directorio donde se quiere crear el repositorio.
+
 `git clone http…`
 
 ```
