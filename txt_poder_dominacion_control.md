@@ -41,20 +41,110 @@ El concepto de dominación, como es descrito y estudiado por Weber, está ligado
 
 ####################
 
-Los conceptos fundamentales de poder y dominación son planteados por Weber casi al inicio de su obra: _Poder_ significa la probabilidad de  imponer la propia voluntad, dentro de una relación social, aún contra toda resistencia y cualquiera que sea el fundamento de esa probabilidad. _Dominación_ es la probabilidad de encontrar obediencia dentro de un grupo determinado para mandatos específicos. Podemos pensar en muchas situaciones en las que se ejerce poder y se impone la voluntad de un grupo o personas sobre otros, sin embargo, la noción de dominación, responde a situaciones más específicas que Weber se encarga de revisar. Por principio, la dominación se vincula a otros dos conceptos importantes: el de la obediencia y el de la legitimidad. Para que exista dominación debe haber sumisión y obediencia por parte del grupo dominado, es decir, se reconoce como autoridad a quien detenta el poder y se acatan sus normas. La legitimidad proviene del hecho mismo de que existe esa obediencia, aunque el reconocimiento no siempre sea del todo genuino, pues advierte Weber que el grupo dominado puede muy bien fingir su adhesión por motivos de oportunidad o simplemente aceptarla como algo irremediable en virtud de debilidades individuales y de desvalimiento, aunque esencialmente acate y obedezca. Quien ejerce dominación es quien fundamenta su propia legitimidad aunque lo hace de distintas maneras, lo cual da piea revisar las diversas formas de legitimidad y autoridad: 1) La de carácter racional, que descansa en la legalidad de ordenaciones establecidas y los derechos de mando conferidos a quienes detentan la autoridad; 2) la de carácter tradicional que consiste en una autoridad sustentada en la tradición y la costumbre y 3) la de carácter carismático, que descansa en la entrega extraordinaria de la autoridad por heroísmo, santidad o caudillismo. Weber hace una descripción detallada de los tres tipos de autoridad para contrastarlos, pero advierte que es la primera, la forma específicamente moderna, y por ende, la más cercana a nuestros tiempos.
+Poder, dominación y control
+===========================
 
-Como forma moderna, la dominación racional (legal), sustenta su legitimidad en el derecho, del cual se desprenden instituciones, jerarquías, nombramientos, formas de renovación y organización así como un aparato burocrático sin los cuales el sistema no podría funcionar. Esta supuesta racionalidad, como punto de partida, es también lo que confiere adhesión y confianza en los gobernados; se desprende de ella una expectativa de estabilidad.
+Para entender las diferencias entre los conceptos de poder, dominación y
+control, partimos de las definiciones que proporciona Weber en su obra:
 
-Es esta confianza en la racionalidad la que Marcuse pone en tela de juicio al observar las dinámicas de alienación generadas por las sociedad industrial avanzada. Si se nos presenta la forma de organización moderna como una forma avanzada de gobierno, donde las libertades individuales y colectivas son cuidadosamente estipuladas y protegidas y los individuos pueden desarrollarse en plenitud; podemos advertir casi de inmediato, cómo la libertad en este tipo de sociedades es un concepto erosionado, estrecho y hasta ambigüo. No existe posibilidad de oposición real pues esta se reduce a la mera promoción y debate de políticas alternativas dentro del _statu quo._ Marcuse expone cómo la sociedad industrial impone una serie de elementos que confluyen al cierre del universo político: el individuo está imposibilitado para probarse a sí mismo en el mercado como sujeto económico libre pues el aparato impone sus exigencias económicas y políticas para la expansión y defensa sobre el tiempo de trabajo y del tiempo libre, así como sobre la cultura material e intelectual. "En virtud de cómo ha organizado su base tecnológica, la sociedad insustrial tiende a ser totalitaria." La alienación ocurre porque los individuos mantienen la incapacidad para ser autónomos, y son adoctrinados y manipulados hasta en sus mismos instintos. La necesidad de mantener libertades engañosas tales como la libre competencia a precios políticos, una prensa libre que se autocensura, una elección libre entre marcas y _gadgets,_ son otros factores que profundizan dicha alienación.
+-   *Poder* es la probabilidad de imponer la propia voluntad, dentro de
+    una relación social, aún contra toda resistencia y cualquiera que
+    sea el fundamento de esa probabilidad.
 
-Advierte Marcuse cómo el poder político en estas sociedades se afirma por medio de su poder sobre el proceso mecánico y sobre la organización técnica del aparato. Destaca así, uno de los aspectos más perturbadores de esta civilización: el carácter racional de su irracionalidad. Las formas predominantes de control social son ahora tecnológicas en un nuevo sentido, esta tendencia se puede relacionar con el desarrollo del método científico: operacionalismo en las ciencias físicas, behaviorismo en las ciencias sociales. Este es un punto importante pues el punto de vista operacional, racionalista, mecanicista, impone grandes restricciones en nuestro modo de percibirnos como individuos.
+-   *Dominación* es la probabilidad de encontrar obediencia dentro de un
+    grupo determinado para mandatos específicos.
 
-Es precisamente Foucault quien alcanza a desentrañar varios de los mecanismos de control y su orígen histórico. En _Los cuerpos dóciles_ expone el nacimiento de la disciplina como fundamento condicionador de los individuos.  La disciplina como tal, no es un invento nuevo, lo que sí es nuevo (en el s. XVIII), es su aplicación obsesiva a todas las esferas de la vida social. Se comienza por moldear el cuerpo mismo de los individuos; se detallan sus proporciones, sus movimientos, sus hábitos. Las características deseables (utilizables) se convierten además en virtudes. Se delimitan los espacios en función de las actividades y las jerarquías; se delimitan los tiempos, se garantiza el _uso_ de todos estos elementos como objetos intercambiables. Se perfilarán después los mecanismos de vigilancia.
+La diferencia radica en que, aunque existan muchas situaciones en las
+que se ejerza poder, la dominación responde a situaciones más
+específicas; en ella, es necesario el componente de la *obediencia,* que
+a su vez nos lleva al de *legitimidad.* Dicho de otra manera: Para que
+exista dominación debe haber sumisión y obediencia por parte del grupo
+dominado, se reconoce como autoridad a quien detenta el poder y se
+acatan sus normas. La legitimidad proviene del hecho mismo de que existe
+esa obediencia, sin importar mucho que quien ejerce la dominación sea quien
+fundamente su propia legitimidad.
 
-Foucault, quien se ocupó de estudiar ampliamente los mecanismos de control de los que se vale el poder, parece encontrar la clave de su implementación en las sociedades contemporáneas: _Transformas al sujeto en un objeto, y podrás hacer con él lo que quieras._ Sin duda es un pensamiento perturbador, pero podemos ver este principio operando en múltiples niveles de nuestra sociedad contemporánea. Lo verdaderamente perverso es que, como individuos, podamos llegar a sentirnos cómodos con una idea tan estrecha de libertad.
+A partir de ello, Weber establece tres formas principales de legitimidad
+y autoridad: *1)* La de carácter *racional,* que descansa en la
+legalidad de ordenaciones establecidas y los derechos de mando
+conferidos a quienes detentan la autoridad; *2)* la de carácter
+*tradicional* que consiste en una autoridad sustentada en la tradición y
+la costumbre y *3)* la de carácter *carismático,* que consiste en la
+entrega extraordinaria de la autoridad por lo que podríamos llamar
+caudillismo o santidad. Weber hace un revisón detallada de estos tres
+tipos de autoridad para contrastarlos, pero nos concentraremos en la
+primera, por ser la forma específicamente moderna y más cercana a
+nuestros tiempos.
 
-Lo expresa muy bien Marcuse (citando a Francois Perroux):
+La dominación racional (legal) moderna, sustenta su legitimidad en el
+derecho, del cual se desprenden instituciones, jerarquías,
+nombramientos, formas de renovación y organización así como un aparato
+burocrático sin los cuales el sistema no podría funcionar. Como punto de
+partida, esta supuesta racionalidad garantiza un cierto grado de
+adhesión y confianza en los gobernados.
 
-> Los esclavos de la sociedad industrial desarrollada son esclavos sublimados, pero son esclavos, porque la esclavitud está determinada [...] no por la obediencia, ni por la rudeza del trabajo, sino por el _status_ de instrumento y la reducción del hombre al estado de cosa.
+Marcuse (entre otros) se encarga de poner en tela de juicio esta
+confianza al observar, que en los estados avanzados de la sociedad
+industrial (nuestra época), hay dinámicas de alienación que rompen hasta
+con la racionalidad misma del sistema. No existe posibilidad de
+oposición real --expone Marcuse--, pues esta se reduce a la mera
+promoción y debate de políticas alternativas dentro del *statu quo.* Se
+imponen además una serie de limitantes que confluyen al cierre del
+universo político: el individuo está imposibilitado para probarse a sí
+mismo en el mercado como sujeto económico libre pues el aparato impone
+sus exigencias económicas y políticas para la expansión y defensa sobre
+el tiempo de trabajo y del tiempo libre, así como sobre la cultura
+material e intelectual. La alienación ocurre porque los individuos
+mantienen una incapacidad para ser autónomos, y son adoctrinados y
+manipulados hasta en sus mismos instintos.
 
-###################
+En virtud de cómo ha organizado su base tecnológica, la sociedad
+industrial tiende a ser totalitaria pues el poder político en estas
+sociedades se afirma por medio de su poder sobre el proceso mecánico y
+sobre la organización técnica del aparato. Destaca así, uno de los
+aspectos más perturbadores de esta civilización: el carácter racional de
+su irracionalidad. Las formas predominantes de control social son ahora
+tecnológicas en un nuevo sentido, esta tendencia se puede relacionar con
+el desarrollo del método científico: operacionalismo en las ciencias
+físicas, behaviorismo en las ciencias sociales. Este es un punto
+importante pues la visión operacional, racionalista, mecanicista, impone
+grandes restricciones en nuestro modo de percibirnos como individuos.
+
+Con Foucalt llegamos al concepto de *control.* Podemos definirlo como el
+conjunto de mecanismos (que pueden ser tan complejos y sutiles como se
+requiera), de los que se vale el poder para coercionar (consciente o
+inconscientemente) a sus gobernados. Es una manera de obligar, de usar
+la fuerza, sin usar la fuerza. En *Los cuerpos dóciles,* Foucault expone
+el nacimiento histórico de la disciplina como nuevo fundamento para
+condicionar (operar) a los individuos. La disciplina no es un invento
+nuevo en el siglo XVIII, lo que sí es nuevo, es su aplicación progresiva
+y obsesiva a todas las esferas de la vida social (desde cárceles, hasta
+escuelas y hospitales). Se comienza por moldear el cuerpo mismo de los
+individuos, se detallan sus proporciones, sus movimientos, sus hábitos.
+Las características deseables (utilizables) se convierten además en
+virtudes. Se delimitan los espacios en función de la actividad y la
+jerarquía; se delimitan los tiempos, se garantiza el *uso* de todos
+estos elementos como objetos intercambiables. Más adelante se perfilarán
+los mecanismos de vigilancia.
+
+La operabilidad de los individuos, es una noción de la se ocupan tanto
+Foucault como Marcuse. Este último, lo expresa de la siguiente manera:
+
+> *Los esclavos de la sociedad industrial desarrollada son esclavos
+> sublimados, pero son esclavos, porque la esclavitud está determinada
+> \[...\] no por la obediencia, ni por la rudeza del trabajo, sino por
+> el status de instrumento y la reducción del hombre al estado de
+> cosa.*\*
+
+Si hubiéramos de simplificarlo en una sola frase podríamos decir:
+*transforma al sujeto en un objeto y podrás hacer con él lo que
+quieras.* Es un pensamiento perturbador, sin duda, pero podemos ver este
+principio operando en múltiples niveles de nuestra sociedad
+contemporánea, sustentado a su vez, en una fe casi ciega hacia la
+racionalidad científica. Lo verdaderamente perverso es que, como
+individuos, podamos llegar a sentirnos cómodos con una idea tan estrecha
+de libertad.
+
+\* *Op. Cit. A su vez, citando en parte a Francois Perroux.*
+
+\* Bibliografía. *Poner **The Trap** en la bibliografía.*
