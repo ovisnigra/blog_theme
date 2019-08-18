@@ -6,7 +6,7 @@ Responder a las siguientes preguntas:
 - ¿Cuáles son las diferencias entre poder, dominación y control?
 - ¿Cuál de estos conceptos consideras que puede fucionar para explicar los problemas de nuestro presente?
 
-Lecturas:
+A partir de estas lecturas:
 
 - Foucault: _Vigilar y castigar._ "Los cuerpos dóciles".
 - Weber: _Economía y sociedad._ "Los tipos de dominación".
@@ -30,7 +30,7 @@ El concepto de dominación, como es entendido por Weber, está ligado a la obedi
 //Conlleva el reconocimiento de una autoridad facultada para ejercer dominio sobre el grupo.//
 
 **Marcuse:**
-Marcuse se ocupa sobre todo de exponer los mecanismos de alienación, es decir, los aparatos que obstruyen la verdadera libertad de los individuos y que son impuestos a los individuos que forman parte de estas sociedades de maneras no siempre evidentes ni fáciles identificar. Para que la alienación sea tal, el individuo difícilmente es cosciente de los límites reales a su libertad que le son impu...
+Marcuse se ocupa sobre todo de exponer los mecanismos de alienación, es decir, los aparatos que obstruyen la verdadera libertad de los individuos y que son impuestos a los individuos que forman parte de estas sociedades de maneras no siempre evidentes ni fáciles de identificar. Para que la alienación sea tal, el individuo difícilmente es cosciente de los límites reales a su libertad que le son impu...
 
 ----------------------------
 
