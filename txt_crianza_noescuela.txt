@@ -1,0 +1,11 @@
+---
+layout: draft
+title: “crianza”
+date: 2019-08-30
+tags: [crianza, noescuela]
+---
+
+no-escuela
+==========
+
+[ deposite sus ideas aquí ]
