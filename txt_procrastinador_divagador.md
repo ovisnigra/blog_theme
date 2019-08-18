@@ -10,13 +10,12 @@ Parapapá
 
  _Recordatorio: Buscar entrevista tía Mello_
 
-Filosofía:
-----------
+* Filosofía
 * Ocio
-* Arte
+* Arte. Burguesía. Dinero
 * Oficios y la transformación de la materia
-* Vicios. Alcohol. Virtud. Trabajar sobrio.
-* Disciplina, orden
+* Vicios. Alcohol. Drogas. Virtud. Trabajar sobrio.
+* Disciplina, orden, rutina
 * ...
 
 
@@ -45,7 +44,7 @@ Sostenibilidad (LB)
 No-escuela
 ==========
   * Arte - Ocio - Juego
-  * Hay ideas cruzadas con lo de crianza (tal vez habría que empezar por ahí)
+  * Cruzar ideas con los de crianza (empezar por ahí)
   * _Coworking_
   * _Dev Bootcamp_
 
@@ -78,7 +77,7 @@ lo más cercano a eso que puedes tener en esta puta vida es al menos no dejar de
 * Sandra y la contemplación
 * Libros para niños
   - _Mil lágrimas_
-  - El suizo de los animalitos con chapitas
+  - (El de La Granja) El libro suizo de los animalitos con chapitas
   - Indestructibles
   - #
 * Acerca del sufrimiento, la alegría (extática) permanente y la felicidad
