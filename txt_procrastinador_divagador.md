@@ -96,3 +96,9 @@ amigosdelpedal
 ==============
 
 Ese es el nombre de la generación, #amigosdelpedal. amigos de la adolescencia (¿o infancia?).
+
+
+minimalismo reductivo
+=====================
+
+es el nombre de mi estilo. tomado de herbert bayer
