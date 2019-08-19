@@ -7,7 +7,8 @@ _Recordatorio: Buscar entrevista tía Mello_
 * filosofía
   - filosofía de vida
   - pensadores, filósofos que creas que forman parte de tu forma de pensar
-  -
+  - josé vasconcelos
+  - la conquista de américa
 
 
 * ocio
@@ -20,6 +21,7 @@ _Recordatorio: Buscar entrevista tía Mello_
   - el mercado del arte
   - artes y oficios y la transformación de la materia
   -
+
 * vicios. alcohol. drogas. virtud. trabajar sobrio o intoxicado
 * disciplina, orden, rutina (lo rutinario del arte)
 * conversar sobre la vida en oaxaca en los años 70, sobre los programas de mano, los carteles, las publicaciones, etc...
