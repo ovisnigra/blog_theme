@@ -40,7 +40,22 @@ una noescuela, un lugar de encuentro de inquietos autodidactas con sed de conoci
 
 **Cofradía**
 
-[DRAE](https://dle.rae.es/?id=9euSTuk) / [Wikipedia](https://es.wikipedia.org/wiki/Cofrad%C3%ADa)
+[DRAE](https://dle.rae.es/?id=9euSTuk)
+De cofrade.
+
+1. f. Congregación o hermandad que forman algunos devotos, con autorización competente, para ejercitarse en obras de piedad.
+
+2. f. Gremio, compañía o unión de gentes para un fin determinado.
+
+3. f. desus. Vecindario, unión de personas o pueblos congregados entre sí para participar de ciertos privilegios.
+
+4. f. germ. Junta de ladrones o rufianes.
+
+
+[Wikipedia](https://es.wikipedia.org/wiki/Cofrad%C3%ADa)
+Cofradía, como término general universal, designa diferentes tipos de cosas, como hermandad, gremio, compañía, unión o reunión de individuos.
+
+En el ámbito cristiano y más en concreto de la iglesia católica, cofradía designa diversos modos de asociación de fieles, pública o privada, establecida conforme a los cánones del Título V del Código de Derecho Canónico.
 
 **Taller**
 
