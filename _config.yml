@@ -1,0 +1,59 @@
+
+# SEO settings
+title: "ovis"
+title2: "nigra" # default: ""
+description: "botadero de ideas"
+keywords: "blog, ovisnigra"
+url: http://ovisnigra.github.io # site url
+baseurl: "" # apply repo name if use it under gh-pages branch
+# baseurl: null # apply null if repo name is something like username.github.io
+
+google_analytics: UA-XXXXX-XX
+repo: http://github.com/ovisnigra/blog
+disqus_shortname: "ovisgithub"
+twitter_username: "ovisnigra"
+comments: true
+
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
+
+source: ./
+destination: ./_site
+
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
+author:
+  name     : "ovis"
+  job      : "cualquiera"
+  bio      : "a nadie le interesa"
+  thumb    : /images/author.jpg
+  email    : sbourguet@gmail.com
+  url      : http://heiswayi.github.io
+  github   : http://github.com/heiswayi
+  twitter  : http://twitter.com/HeiswayiNrird
+  facebook : https://www.facebook.com/heiswayi.nrird
+  linkedin : http://linkedin.com/in/nrird
+
+# social settings
+og_locale: "es_MX"
+twitter_card: "summary_large_image"
+twitter_site: "@HeiswayiNrird"
+
+gems:
+  - bourbon
+  - jekyll-paginate
+
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
