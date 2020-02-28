@@ -1,0 +1,10 @@
+---
+layout: post
+title: "quotes"
+date: 2017-09-23
+tags: [divagar, pendientes, listas]
+---
+
+> ¿Quién de nosotros es capaz de predecir el futuro? ¿Quién se atrevería a hacerlo? La respuesta a la primera pregunta es nadie, la verdad, y la respuesta a la segunda es todo el mundo, en especial todos los Gobiernos y empresas del planeta. Para eso utilizan nuestros datos. Analizan algoritmos en busca de patrones de comportamiento fijo con el fin de extrapolar conductas futuras, una especie de profecía digital que es solo un poco más precisa que métodos analógicos como la lectura de manos. Una vez que excavas en los mecanismos técnicos reales con los que se calcula la predictibilidad, entiendes que su ciencia es en realidad anticientífica, y su nombre un error mortal: la predictibilidad es manipulación. 
+
+_Snowden_

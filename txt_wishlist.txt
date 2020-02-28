@@ -24,14 +24,14 @@ tags: [divagar, pendientes, listas]
 ## Libros
 
 Autor | Título (aproximado) | Editorial |
----|---|---|
-Tzvetan Todorov | _La conquista de América (la otredad)_ | Siglo XXI
-Martín Caparrós | _El hambre_ | Anagrama
+---|---|---|---|
+X Tzvetan Todorov | _La conquista de América (la otredad)_ | Siglo XXI | x |
+X Martín Caparrós | _El hambre_ | Anagrama | x |
 Ander Izaguirre | _Plomo en los bolsillos_ |
 Taro Gomi | _Libro de los garabatos_ | FCE
-Michael Pollan | _El dilema del omnívoro_ |
-William Poundstone | _Priceless_ |
-Michael Derber | _Power in the highest degree_ |
+X Michael Pollan | _El dilema del omnívoro_ |
+X William Poundstone | _Priceless_ | x |
+X Michael Derber | _Power in the highest degree_ | x |
 Italo Calvino | _Seis propuestas para el próximo milenio_ |
 Douglas Adams | _Hitchhiker's Guide to the Galaxy_ |
 Douglas Adams | _The Restaurant at the End of the Universe_ |
@@ -48,7 +48,10 @@ Liniers |   |
 
 _El Ángel exterminador,_ Buñuel
 _Sunset Boulevard,_ Billy Wilder
-
+Patricio Guzmán
+_Plemia_ (recomendación JLA)
+_Teoría Sueca del Amor_ (JLA)
+_Flatland_ (JLA)
 
 
 ## Música
@@ -58,6 +61,15 @@ _Sunset Boulevard,_ Billy Wilder
 * Rigo Tovar
 * Chico Che
 * marimba cuquita
+* Alan Vega & ?? - Union City Blues
+* Mitsuko Uchida
+* Toña la negra
+* Polmo Polpo
+
+
+## Software
+
+* Fielmaker (bases de datos)
 
 
 ### Rolas que salen porahi
@@ -72,6 +84,9 @@ _Sunset Boulevard,_ Billy Wilder
 * _Viva la Pappa col Pomodoro,_ Rita Pavone
 * _Crazy,_ Gnarls Barkley
 * _Don't Stop 'Till You Get Enough,_ Michael Jackson
+* _La Vaca Lola,_
+* _Silencio,_
+* _
 
 ### Punky Mood
 
@@ -80,14 +95,17 @@ _Sunset Boulevard,_ Billy Wilder
 * _xx,_ PIL
 * _XX,_ Gang of Four
 * _xx,_ X Ray Spex
-* _xx,_ Nation of Ulyses
+* _Spectra Sonic Sound,_ Nation of Ulyses
 * _Xx,_ Fugazi
 * _xx,_ Wire
 The Fall
 Residents
 Tuxedomon
 The Contortions
-
+The Ex
+The Ex & Tom Cora
+CCCP
+Health
 
 ### Lista de vida
 
@@ -96,8 +114,10 @@ The Contortions
 * _Allá en el Rancho Grande,_ Pedro infante o Tito Guízar
 * _Bip Bip ,_ Roberto Carlos
 * _Marcha de Zacatecas,_ (?)
+* _Cien años,_ quién
+* _Cuando sale la luna,_ José Alfredo Jiménez (cantado por Tania Libertad)
 * _,_ quién
-* _,_ quién
+
 
 
 ## Prints
