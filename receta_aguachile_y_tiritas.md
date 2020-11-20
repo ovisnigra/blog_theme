@@ -73,4 +73,4 @@ Preparación final y cocción:
 * Al servir decorar con un par de jitomates cherry picados al centro y hojitas de arúgula. Puede usarse también un poco de eneldo, orégano o fruta de temporada.
 
 
-Es importante a la hora de servir, revolver bien tomando de hasta abajo del recipiente para tomar lo que tiene más sabor y en el aguachile revisar que no se pongan demasiados (o muy pocos) camarones para que las últimas tostadas salgan bien equilibradas.
+A la hora de servir revolver bien tomando de hasta abajo del recipiente para tomar lo que tiene más sabor y en el aguachile revisar que no se pongan demasiados (o muy pocos) camarones para que las últimas tostadas salgan bien equilibradas.
