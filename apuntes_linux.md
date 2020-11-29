@@ -25,20 +25,18 @@ Todo esto es lo que instalé en la compu que me robaron.
 
 ---
 
-Reinicio 2019 con nuevas pruebas, buscando una máquina dónde instalar.
-
 ## Instalaciones 2019
 
-Estoy probando:
+Probando:
 
 - **Bunsenlabs:** Con ambiente operativo **OpenBox, Tint2, etc.** _Tomar notas de componentes esenciales_ Ver: [https://youtu.be/TUXohePdiR4]
-- **Kali linux:** Con ambiente operativo **LXLE.** _Chingón para pruebas de hack_wifi_
-- **MX linux:** Con ambiente operativo **XFCE.** _De los ambientes operativos livianos o medianos, XFCE me parece que es lo más familiar y fácil de aprender como para cuando eres principiante. Y está distribución lo está haciendo muy bien en cuanto a configurabilidad y desarrollo de herramientas de apoyo bastante chidas. Fácil de hacer disco USB con persistencia, clonar, respaldar, etc. Es el que seguiré probando en Ufemia.
-  - Update (4 mayo): El USB con persistencia no me ha gustado mucho porque se alenta.
+- **Kali linux:** Con ambiente operativo **LXLE.** _Chingón para pruebas con kali. era el anterior que instalé en la compu paolax_
+- **MX linux:** Con ambiente operativo **XFCE.** _livianos o mediano, XFCE ha estado muy ien para empezar. Distribución chida.
+  - Update (4 mayo): El USB con persistencia un poco lento.
 
-En cuanto a ambientes operativos:
+Ambientes operativos:
 
-- **XFCE:** De los ambientes operativos livianos o medianos, XFCE me parece que es lo más familiar y fácil de aprender como para cuando eres principiante. Es más bien liviano, pero jala bien en mi iMac del 2005.
+- **XFCE:** thumbs up
 - **LXDE:** Muy liviano y fácil de aprender. Basado en OpenBox. 
   - https://lxde.org
   - https://www.zdnet.com/article/how-to-customise-your-linux-desktop-lxde/
@@ -46,7 +44,7 @@ En cuanto a ambientes operativos:
 
 Me quedan por probar gestores de ventanas aún más simples como  **Ratpoison** o **Xmonad** [https://xmonad.org/] Que se ven interesantes en cuanto a la rapidez de trabajo que se logra con ellos aunque cuesta un poco más dominarlos. UPDATE: probé un poco **awesomeWM** y **xmonad**. voy a probar **bspwm**. Con Ratpoison no he podido hacer que jale.
 
-De los más complejos y populares, habría que probar (si hay chance) **Unity**, **Mate**, **Gnome**, **KDE**.
+De los más pesados y populares casi solo probé **Gnome**.
 
 
 * * *
