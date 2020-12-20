@@ -44,7 +44,13 @@ Ambientes operativos:
 
 Me quedan por probar gestores de ventanas aún más simples como  **Ratpoison** o **Xmonad** [https://xmonad.org/] Que se ven interesantes en cuanto a la rapidez de trabajo que se logra con ellos aunque cuesta un poco más dominarlos. UPDATE: probé un poco **awesomeWM** y **xmonad**. voy a probar **bspwm**. Con Ratpoison no he podido hacer que jale.
 
-De los más pesados y populares casi solo probé **Gnome**.
+De los más pesados y populares casi solo probé **Gnome**. Después descubrí **KDE** y me gustó más.
+
+
+IRC:
+
+Servidores: EFNet, UnderNet, DalNet, QuakeNet, freenode
+
 
 
 * * *

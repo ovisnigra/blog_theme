@@ -94,3 +94,14 @@ Si cometes el error de escoger a la persona equivocada; a los que les gusta ser 
 Borra tu historial para que nadie pueda encontrar esta página web.
 
 Asegúrate de mantenerte dentro de la ley cuando sigas estos pasos.
+
+
+///////////////////////////////////////////////////
+---------------------------------------------
+////////////////////////////////////////
+---------------------------------------------------
+
+
+solo es un club o grupo de estudio, placeres y conversación
+
+_la lentitud nos hará libres_
