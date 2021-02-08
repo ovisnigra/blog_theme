@@ -131,3 +131,33 @@ sudo apt install build-essential
 /////////////////////////////////////
 -------------------------------------
 
+# backports on debian
+
+tomado de:
+https://www.addictivetips.com/ubuntu-linux-tips/get-newer-software-on-debian-stable/
+
+> Using Debian Stable has its benefits but it’s mainly stability that you’re going for. The developers of this popular Linux distribution seldom push out new versions of packages. Things are less likely to crash and break, and work will not be interrupted. It does come with its downside i.e., you automatically get newer software on Debian Stable. Programs on Debian are significantly older than on other Linuxes. For example: Debian doesn’t ship the main release version of Firefox, and instead has an “extended release” which is months behind. Because of this, users miss out on all of the improvements Mozilla regularly makes.
+
+Debian Backports
+
+> The single safest, most effective way to get newer software on Debian is to add a backport repository.A backport is software taken from newer versions of Debian that are under development, and made available for Debian Stable releases. With a backport repository, users can easily enjoy new programs on their favorite distribution.
+
+First, open up a terminal window and log into root with su. If your user account can use sudo privileges, feel free to use sudo -s instead.
+
+su
+
+After gaining root access to the shell, do a quick backup of the Debian software repository. This isn’t required, but is a good idea to quickly revert back if mistakes occur. To make a backup, do:
+
+'''
+cp /etc/apt/sources.list /home/username/ 
+cd /home/username/
+mv sources.list sources.list.bak
+'''
+
+To restore a backup, do (as root):
+
+'''
+rm /etc/apt/sources.list
+mv /home/username/sources.list.bak /etc/apt/sources.list
+'''
+
