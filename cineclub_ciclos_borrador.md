@@ -52,15 +52,19 @@ _Arrugas_ | ? | ??? |
 _?_ | ? |
 
 
-## Ciclo El Tiempo
-_Last and First Men_
+## Ciclo Futuro, Tiempo, Eternidad
+_Last and First Men_ Johannsson
 _Cronos_ Fricke
 _Into Eternity_
+_2001, Space Oddyssey_ Kubrick
+_Man From Earth_
 
+_ - _ . . _ - _ . . : /||\ : \||/ : _ _ + x
+- _ - . . - _ - . . : \||/ : /||\ : - - = /
 
-_ - _ . . _ - _ . . : /||\ : \||/ _ _ + x
-- _ - . . - _ - . . : \||/ : /||\ - - = /
-
+## Ciclo Pater (Padre)
+_Fresas Salvajes_ Bergman
+_-_
 
 
 
@@ -78,7 +82,7 @@ _ - _ . . _ - _ . . : /||\ : \||/ _ _ + x
 : \ | | / : / | | \  : - - | ... - - : / | | \ : \ | | / :
 
   = = = = ¿ QUIERES PROPONER = = = =
-  + + + + + O PRESENTAR UNA PELI + + + + + + 
+  + + + + + O PRESENTAR UNA PELI + + + + + +
 
 : / | | \ : \ | | /  : - - | ... - - : \ | | / : / | | \ :
 : \ | | / : / | | \  : - - | ... - - : / | | \ : \ | | / :
