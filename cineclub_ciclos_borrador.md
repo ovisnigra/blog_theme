@@ -43,6 +43,48 @@ _?_ | ? |
 
 ## Ciclo Jeanne Moreau
 
+## Ciclo La Vejez
+
+Título | Director | Año |
+---|---|---|
+_El Agente Topo_ | Maite ? | 2020 |
+_Arrugas_ | ? | ??? |
+_?_ | ? |
+
+
+## Ciclo El Tiempo
+_Last and First Men_
+_Cronos_ Fricke
+_Into Eternity_
+
+
+_ - _ . . _ - _ . . : /||\ : \||/ _ _ + x
+- _ - . . - _ - . . : \||/ : /||\ - - = /
+
+
+
+
+: / | | \ : \ | | /  : - - | ... - - : \ | | / : / | | \ :
+: \ | | / : / | | \  : - - | ... - - : / | | \ : \ | | / :
+
+  = = = = INVITAR A HANS, LUCAS, ANDRÉS, AMIGOS = = = =
+  + + + + + +  A PROPONER PELIS AL CINECLÚ  + + + + + +
+
+: / | | \ : \ | | /  : - - | ... - - : \ | | / : / | | \ :
+: \ | | / : / | | \  : - - | ... - - : / | | \ : \ | | / :
+
+
+: / | | \ : \ | | /  : - - | ... - - : \ | | / : / | | \ :
+: \ | | / : / | | \  : - - | ... - - : / | | \ : \ | | / :
+
+  = = = = ¿ QUIERES PROPONER = = = =
+  + + + + + O PRESENTAR UNA PELI + + + + + + 
+
+: / | | \ : \ | | /  : - - | ... - - : \ | | / : / | | \ :
+: \ | | / : / | | \  : - - | ... - - : / | | \ : \ | | / :
+
+
+
 ## Ciclo +++
 
 Título | Director | Año |
@@ -53,7 +95,7 @@ _ttt_ | ddd |
 _?_ | ? |
 
 
-## Pelis sueltas
+## Pelis sueltas (por ver)
 
 _Sunset Boulevard,_ Billy Wilder
 _Diario de una recamarera,_ Buñuel
