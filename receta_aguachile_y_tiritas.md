@@ -52,7 +52,7 @@ Camarón:
 
 Preparación final y cocción:
 * Cocer con limón exprimido al momento, en proporción 2 a 1 respecto a las tiritas, es decir, por cada 2 en el aguachile, exprimir uno en las tiritas.
-* Detener la cocción (observar el color) agregando la salsa que se licuó.
+* Detener la cocción (observar el color en la carne) agregando la salsa que se licuó.
 * Añadir la cebolla y el pepino y revolver.
 * No suele requerir sal extra (el camarón en polvo ya tiene suficiente)
 * Servir con un par de jitomates cherry picados al centro de la tostada.
@@ -67,8 +67,8 @@ Previo:
 * Una vez descongelado el pescado, desinfectar y luego cortar en tiritas.
 
 Preparación final y cocción:
-* Cocer con limón exprimido al momento. Se hace al mismo tiempo que el aguachile y se usa un limón por cada dos en el aguachile.
-* Parar cocción añadiendo sal (apróx. dos a tres puñitos tomados con los dedos).
+* Cocer con limón exprimido al momento. Se hace al mismo tiempo que el aguachile y se usa un limón por cada dos en el aguachile. OJO: No añadir sal hasta que se halla cocido bien.
+* Detener la cocción añadiendo sal (apróx. dos a tres puñitos tomados con los dedos).
 * Añadir la cebolla picada y el chile y revolver bien.
 * Al servir decorar con un par de jitomates cherry picados al centro y hojitas de arúgula. Puede usarse también un poco de eneldo, orégano o fruta de temporada.
 
